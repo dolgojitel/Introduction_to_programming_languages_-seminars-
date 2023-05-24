@@ -58,3 +58,21 @@ while (negativeN <= N)
     negativeN = negativeN + 1;
 } // negativeN ++
 */
+
+/*
+Console.Write("Видите первое число: ");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Видите второе число: ");
+int seondNumbers = Convert.ToInt32(Console.ReadLine());
+
+if (firstNumber > seondNumbers)
+{
+    Console.WriteLine(firstNumber);
+}
+
+else
+{
+    Console.WriteLine(seondNumbers);
+}
+*/
