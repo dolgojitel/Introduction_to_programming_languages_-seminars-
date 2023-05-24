@@ -47,3 +47,14 @@ else
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4" 
 // 2 -> " -2, -1, 0, 1, 2"
 
+/*
+Console. Write("Введите число: ");
+int N = Convert.ToInt32(Console.ReadLine());
+int negativeN = N * (-1);
+// -N , N = 5, negativeN = 5 * (-1) = -5
+while (negativeN <= N)
+{
+    Console. WriteLine(negativeN); // negativeN =-2
+    negativeN = negativeN + 1;
+} // negativeN ++
+*/
