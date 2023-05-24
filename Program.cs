@@ -25,7 +25,7 @@ a = 9, b = -3 -> да
 a = -3 b = 9 -> нет
 */
 
-/*
+
 Console.Write("Видите первое число: ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
 
@@ -34,11 +34,9 @@ int seondNumbers = Convert.ToInt32(Console.ReadLine());
 
 if (firstNumber == seondNumbers * seondNumbers);
 {
-    Console.WriteLine("Число "+ firstNumber + "Является кводратом числа" + seondNumbers);
+    Console.WriteLine("Число "+ firstNumber + "Является кводратом числа " + seondNumbers);
 }
-
 else
 {
     Console.WriteLine("Число "+ firstNumber + "Не является кводратом числа" + seondNumbers);
 }
-*/
