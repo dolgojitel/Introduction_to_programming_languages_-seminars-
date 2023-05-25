@@ -56,3 +56,17 @@ else
     Console.Write("Число: " + numbers + " не четное число ");
 }
 */
+
+//Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+/*
+Console.Write("Введите число: ");
+int numbers = Convert.ToInt32(Console.ReadLine());
+int numbersN = 1;
+
+while (numbersN <= numbers)
+{
+    Console.WriteLine(numbersN);
+    numbersN ++;
+}
+*/
