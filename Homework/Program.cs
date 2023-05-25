@@ -39,4 +39,20 @@ if (thirdNumbers > maxNamber) maxNamber = thirdNumbers;
       Console.WriteLine(maxNamber);
 
 */
+ 
 
+//Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+/*
+Console.Write("Введите число: ");
+int numbers = Convert.ToInt32(Console.ReadLine());
+
+if (numbers%2 == 0)
+{
+    Console.Write("Число: " + numbers + " является четным числом ");
+}
+else
+{
+    Console.Write("Число: " + numbers + " не четное число ");
+}
+*/
