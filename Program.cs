@@ -11,7 +11,7 @@ int namber = Convert.ToInt32(Console.ReadLine());
 
 int result = namber * namber;
 
-double resultPantTwo = Math.Pow(namber,2);
+double resultPantTwo = Math.Pow(namber,2); // Второй метод
 
 Console.WriteLine(" Число " + namber + " в квадрате: " + result);
 Console.WriteLine(" Число " + namber + " в квадрате: " + resultPantTwo);
